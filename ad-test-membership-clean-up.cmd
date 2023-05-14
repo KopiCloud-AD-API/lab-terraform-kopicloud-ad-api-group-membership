@@ -1,6 +1,6 @@
 @echo off
 cls
-echo Clean up Logs
+echo Clean Up Logs
 del /q ad*.txt
 
 echo -----------------------------
